@@ -1,0 +1,19 @@
+{
+  "name": "02_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  
+    "scripts": {
+   "start": "index.js"
+   
+
+},
+
+    
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
